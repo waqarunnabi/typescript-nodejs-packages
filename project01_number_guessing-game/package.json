@@ -1,0 +1,27 @@
+{
+  "name": "wun-num-guessing",
+  "version": "2.1.0",
+  "description": "Develop a simple command line calculator using [TypeScipt](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/) and [Inquirer](https://www.npmjs.com/package/inquirer).",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "wun-num-guessing": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.17",
+    "ts-node": "^10.9.1"
+  },
+  "keywords": []
+}
