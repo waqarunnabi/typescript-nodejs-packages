@@ -7,9 +7,9 @@ This somewhat complex TypeScript/Node.js project is a console-based application.
 >**npm i wun_atm** \
 > **npx npx wun_atm**
 
-[## GitHub repository](https://github.com/waqarunnabi/typescript-node-projects/tree/main/project02_atm)
+[## GitHub repository](https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project02_atm)
 
-https://github.com/waqarunnabi/typescript-node-projects/tree/main/project02_atm
+https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project02_atm
 
 
 
