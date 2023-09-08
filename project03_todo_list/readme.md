@@ -10,6 +10,6 @@ Develop a simple command line Todo app using [TypeScipt](https://www.typescriptl
 > **npx npx wun-todo-list**
 
 
-[## GitHub repository](https://github.com/waqarunnabi/typescript-node-projects/tree/main/project03_todo_list) 
+[## GitHub repository](https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project03_todo_list) 
 
-https://github.com/waqarunnabi/typescript-node-projects/tree/main/project03_todo_list
+https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project03_todo_list
