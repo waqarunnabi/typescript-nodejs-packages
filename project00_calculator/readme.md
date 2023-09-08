@@ -7,6 +7,6 @@ Develop a simple command line calculator using [TypeScipt](https://www.typescrip
 >**npm i wun-calculator** \
 > **npx npx wun-calculator**
 
-## [GitHub repository](https://github.com/waqarunnabi/typescript-node-projects/tree/main/project00_calculator)
+## [GitHub repository](https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project00_calculator)
 
 https://github.com/waqarunnabi/typescript-node-projects/tree/main/project00_calculator
