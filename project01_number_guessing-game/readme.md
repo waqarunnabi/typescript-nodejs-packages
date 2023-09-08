@@ -9,5 +9,5 @@ This guess the number game is a short TypeScript/Node.js project that allows the
 
 ## [GitHub repository](https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project01_number_guessing-game)
 
-https://github.com/waqarunnabi/typescript-node-projects/tree/main/project01_number_guessing-game
+https://github.com/waqarunnabi/typescript-nodejs-packages/tree/main/project01_number_guessing-game
 
